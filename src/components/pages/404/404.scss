@@ -1,0 +1,14 @@
+@import "../../../style/variables.scss";
+
+.error-404 {
+  .link-backpage {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 30px;
+  }
+  a:hover {
+    color: $main-color;
+  }
+}
