@@ -7,7 +7,7 @@ import "./charList.scss";
 const CharList = (props) => {
   const [charList, setCharList] = useState([]);
   const [newItemLoading, setNewItemLoading] = useState(true);
-  const [offset, setOffset] = useState(1541);
+  const [offset, setOffset] = useState(0);
   const [charEnded, setCharEnded] = useState(false);
   const [isEnd, setIsEnd] = useState(false);
 
