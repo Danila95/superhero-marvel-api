@@ -1,3 +1,7 @@
+# Курсовая работа по подгрузке комиксов и супергероев api Marvel
+
+https://www.udemy.com/course/javascript_full/ (нужен VPN)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
